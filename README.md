@@ -2,6 +2,8 @@
 
 This repository contains a project developed as part of a tutorial on Microsoft's official site for learning ASP.NET Core Razor Pages. The purpose of this project is to help developers understand the fundamentals of building web applications using Razor Pages in ASP.NET Core.
 
+![project index page - image not fount](Screenshot/Screenshot-index-page.png)
+
 ## Project Overview
 
 - **Tutorial Source**: [Microsoft ASP.NET Core Razor Pages Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/)
@@ -19,8 +21,8 @@ This repository contains a project developed as part of a tutorial on Microsoft'
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/samedbilgili/aspnet-core-razor-pages-tutorial.git
-    cd aspnet-core-razor-pages-tutorial
+    git clone https://github.com/samedbilgili/aspnetcore-razorpage-crud-movie.git
+    cd aspnetcore-razorpage-crud-movie
     ```
 
 2. **Install dependencies**:
